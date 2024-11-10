@@ -10,8 +10,7 @@
 User: Rottioris
 SO: Win10x64
 Language: Java
-Editor: Visual Studio Code
-    </pre>
+Editor: Visual Studio Code</pre>
   </div>
 </div>
 
