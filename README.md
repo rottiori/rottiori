@@ -30,6 +30,6 @@ CPU       : 4.5 GHz / 4 Cores / 8 Threads
 
 ---
 
-<p align="center"><b><samp>👨‍💻 Always Learning, Always Building.</samp></b></p>
+<p align="center"><b><samp>Quien conoce sus capacidades no siente la urgencia de demostrar nada a nadie.</samp></b></p>
 
    
