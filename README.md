@@ -29,10 +29,11 @@ CPU       : 4.5 GHz / 4 Cores / 8 Threads
 </p>
 
 ---
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rottiori&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="rottiori's Top Languages" width="300"/>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/rottiori?cardType=github&theme=tokyonight&preferLogin=true" alt="My Awesome Stats" width="370" left="100"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rottiori&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="rottiori's Top Languages" width="300" style="margin-right: 10px;"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/rottiori?cardType=github&theme=tokyonight&preferLogin=true" alt="My Awesome Stats" width="370"/>
+</p>
+
 
 ---
 
